@@ -1,7 +1,7 @@
 # Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering
 
 <p align="center">
-  <b>Accepted at ECCV 2026</b>
+  <b>Official PyTorch implementation of Q-TriM, accepted at ECCV 2026.</b>
 </p>
 
 <p align="center">
